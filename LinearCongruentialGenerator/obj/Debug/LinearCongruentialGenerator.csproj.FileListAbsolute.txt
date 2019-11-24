@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\bin\Debug\LinearCongruentialGenerator.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\bin\Debug\LinearCongruentialGenerator.exe
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\bin\Debug\LinearCongruentialGenerator.pdb
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.exe
+c:\users\admin\documents\visual studio 2015\Projects\LinearCongruentialGenerator\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.pdb
